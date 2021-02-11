@@ -1,1 +1,16 @@
-theme: jekyll-theme-minimal
+# User config
+author: "UN-SPIDER"
+tagline: "UN-SPIDER Recommended Practices"
+description: "The United Nations Platform for Space-Based Information for Disaster Management and Emergency Response (UN-SPIDER), together with its network of Regional Support Offices, develops step-by-step procedures to support developing countries in making use of Earth observation data for disaster risk reduction, disaster management and emergency response efforts. This page provides an overview of scripts related to these Recommended Practices and hosted on GitHub."
+keywords: "Satellite, Earth observation"
+email: "un-spider@un.org"
+twitter: "https://twitter.com/UN-SPIDER"
+github: "https://github.com/UN-SPIDER"
+website: "https://un-spider.org/"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
