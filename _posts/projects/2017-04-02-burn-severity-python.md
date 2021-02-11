@@ -10,7 +10,7 @@ project:
   title: "Burn Severity Mapping with Optical Satellite Data"
   type: "Jupyter Notebook"
   url: "https://github.com/UN-SPIDER/burn-severity-mapping-EO"
-  logo: "/assets/images/projects/burn_severity/burn_severity_overview.JPG"
+  logo: "/assets/images/projects/burn_severity/burn_severity_overview.jpg"
   tech: "Python, Sentinel-1"
 
 images:
